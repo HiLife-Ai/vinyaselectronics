@@ -1,0 +1,39 @@
+[11-Oct-2021 07:00:48 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[11-Oct-2021 07:29:31 UTC] Key Id and Key Secret are required.
+[11-Oct-2021 07:29:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/functions.php on line 6712
+[11-Oct-2021 07:29:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-admin/includes/misc.php on line 1310
+[11-Oct-2021 07:29:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-admin/admin-header.php on line 9
+[11-Oct-2021 07:29:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/option.php on line 1097
+[11-Oct-2021 07:29:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/option.php on line 1098
+[11-Oct-2021 08:44:07 UTC] Key Id and Key Secret are required.
+[11-Oct-2021 08:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/functions.php on line 6712
+[11-Oct-2021 08:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-admin/includes/misc.php on line 1310
+[11-Oct-2021 08:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-admin/admin-header.php on line 9
+[11-Oct-2021 08:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/option.php on line 1097
+[11-Oct-2021 08:44:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/option.php on line 1098
+[11-Oct-2021 08:46:47 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 08:46:48 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 08:48:18 UTC] Key Id and Key Secret are required.
+[11-Oct-2021 08:48:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/functions.php on line 6712
+[11-Oct-2021 08:48:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-admin/includes/misc.php on line 1310
+[11-Oct-2021 08:48:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-admin/admin-header.php on line 9
+[11-Oct-2021 08:48:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/option.php on line 1097
+[11-Oct-2021 08:48:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-content/plugins/woo-razorpay/woo-razorpay.php:280) in /home4/hilifgk3/vinyaselectronics.hilifeai.com/wp-includes/option.php on line 1098
+[11-Oct-2021 10:20:53 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 10:20:54 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 10:23:18 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 10:23:19 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 10:24:13 UTC] {"message":"The api secret provided is invalid"}
+[11-Oct-2021 10:24:14 UTC] {"message":"The api secret provided is invalid"}
+[29-Oct-2021 05:16:29 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:16:29 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:16:41 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:16:41 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:16:52 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:16:52 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:17:05 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:17:05 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:17:19 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[29-Oct-2021 05:17:19 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Oct-2021 09:03:15 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
+[30-Oct-2021 09:03:15 UTC] The update_woocommerce_term_meta function is deprecated since version 3.6. Replace with update_term_meta.
